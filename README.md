@@ -50,3 +50,4 @@
 
 เพิ่มเติม
  libraries ดาวน์โหลด -> https://drive.google.com/drive/folders/1ZHA0fQdYv1UkNHEGD_DIbEfIXUWZ9a_v?usp=drive_link
+Additional boards manager URL : http://arduino.esp8266.com/stable/package_esp8266com_index.json 
